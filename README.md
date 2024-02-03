@@ -1,11 +1,5 @@
 Welcome,
 
-Proficient in the programming languages of C, C++, Python. 
-With a knack for designing personal websites on the side.
-
-
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
